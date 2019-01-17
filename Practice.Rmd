@@ -43,3 +43,9 @@ The sample mean is defined in the Equation \@ref(eq:mean).
 \end{equation}
 
 Please refer to Figure \@ref(fig:pressure).
+
+## Insert URL
+
+```{r, echo = FALSE}
+knitr::include_url("https://www.youtube.com/watch?v=mKd3YhTbsgk")
+```
